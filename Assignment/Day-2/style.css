@@ -1,0 +1,23 @@
+
+
+
+body
+{
+    background-color:#a2dbfa;
+}
+table {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid rgb(255, 255, 255);
+    padding: 30px;
+    background-color: #ACE2E1;
+    border-radius: 25px
+}
+table input {
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+}

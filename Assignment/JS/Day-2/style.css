@@ -1,0 +1,24 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background: #d2e3ed;
+    margin-top: 23%;
+  }
+
+  .card {
+    width: 375px;
+    min-height: 200px;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 22px;
+    background: #fff;
+    text-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
+    letter-spacing: -1px;
+    font-family: monospace;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+  }

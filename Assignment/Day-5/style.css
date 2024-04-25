@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+.nav-item {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    padding: 10px;
+}
+
+.nav-item li {
+    list-style: none;
+    color: white;
+
+}
+
+.nav-item a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+.table-item
+{
+    margin: 7px;
+}
+table, td, th {
+    border: 1px solid;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .list-item
+  {
+    list-style: square;
+  }
